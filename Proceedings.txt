@@ -1,0 +1,15 @@
+Since the target organism is a plant, a suitable agrobacterium plasmid, pCAMBIA2300 was chosen.
+
+Restriction site HinDIII was chosen, simply because it's a single cut restriction site and one I am familiar with.
+
+A CaMV promoter was added from the pP35S plasmid, although the in-built promoter could have been utilized to reduce the number of base pairs.
+
+Genes AT1G1260.1 (aka DDF1) and AT4G161101.1 (aka RR2) were added to decrease auxins and increase gibberellins respectively.
+
+Self cleaving peptide P2A was added from pC5Kan-P2A plasmid. P2A was added between the DDF1 and RR2 genes.
+
+Stop codon sequence TAA,TGA and TAG were added after the RR2 gene.
+
+CaMV Poly A Signal was added from pICH41414 plasmid to terminate the gene sequence.
+
+For selection of functional mutants, Kanamycin resistance genes are present on the plasmid.
